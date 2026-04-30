@@ -15,6 +15,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Git LFS
+        run: git lfs install
 
       - name: Show target Hugging Face Space
         run: |
@@ -30,4 +35,5 @@ jobs:
           fi
 
           git remote add space "https://oauth2:${HF_TOKEN}@huggingface.co/spaces/${HF_USERNAME}/${HF_SPACE_NAME}"
+          git lfs push --all space main
           git push --force space main
