@@ -1,0 +1,32 @@
+name: Deploy to Hugging Face Space
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      HF_USERNAME: davidn147
+      HF_SPACE_NAME: career_conversation
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Show target Hugging Face Space
+        run: echo "Deploy target: https://huggingface.co/spaces/${HF_USERNAME}/${HF_SPACE_NAME}"
+
+      - name: Push repository to Hugging Face Space
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          if [ -z "$HF_TOKEN" ]; then
+            echo "HF_TOKEN must be set in GitHub secrets."
+            exit 1
+          fi
+
+          git remote add space "https://oauth2:${HF_TOKEN}@huggingface.co/spaces/${HF_USERNAME}/${HF_SPACE_NAME}"
+          git push space main
