@@ -34,18 +34,22 @@ Both of those events are sent through Pushover notifications.
 
 ## Running Locally
 
-1. Create a virtual environment:
-   `uv venv`
-2. Activate it:
-   `source .venv/bin/activate`
-3. Install dependencies:
-   `uv pip install -r requirements.txt`
-4. Add required environment variables in `.env`:
+1. Install dependencies and create the environment:
+   `uv sync`
+2. Add required environment variables in `.env`:
    - `OPENAI_API_KEY`
    - `PUSHOVER_TOKEN`
    - `PUSHOVER_USER`
-5. Start the app:
-   `python app.py`
+3. Run the app:
+   `uv run app.py`
+
+If you are setting up from scratch and want the full dependency workflow:
+
+1. `uv sync`
+2. `uv run python --version`
+3. `uv run python -c "import gradio; print(gradio.__version__)"`
+
+This project is currently pinned to Gradio 5.x to match the chatbot code path used in `app.py`.
 
 ## Deployment
 
