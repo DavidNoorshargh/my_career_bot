@@ -17,7 +17,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Show target Hugging Face Space
-        run: echo "Deploy target: https://huggingface.co/spaces/${HF_USERNAME}/${HF_SPACE_NAME}"
+        run: |
+          echo "Deploy target: https://huggingface.co/spaces/${HF_USERNAME}/${HF_SPACE_NAME}"
 
       - name: Push repository to Hugging Face Space
         env:
