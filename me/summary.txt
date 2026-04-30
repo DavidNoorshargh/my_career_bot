@@ -1,0 +1,111 @@
+DAVID NOORSHARGH
+Buckhurst Hill, Essex
+07508318562 | davidn_147@hotmail.com | LinkedIn | GitHub
+
+Principal Quality Specialist with a decade of experience spanning quality, software & platform engineering. Full‑stack experience covering infrastructure, backend, and frontend development, alongside comprehensive automation of tests across all tiers. My strongest technical proficiencies include TypeScript, JavaScript, and Python for development; Playwright for UI automation; Terraform and CDK for IaC; AWS for cloud architecture; GitLab for version control and pipeline orchestration; and Datadog for monitoring and observability. 
+I specialise in defining and embedding quality strategies, elevating quality mindset across teams, and integrating scalable, modern quality practices into engineering workflows. Recently, I’ve led initiatives around AI and agentic AI tooling, using intelligent automation and reasoning models to enhance test coverage, accelerate feedback loops, and strengthen overall product quality. Recognised for leading automation engineers, influencing cross‑team engineering culture, and delivering reliable, resilient systems.
+
+CORE TECHNICAL & LEADERSHIP SKILLS 
+Leadership & Strategy:  
+Developing quality strategies for cross cutting outcomes, coaching teams on quality mindset, leading and mentoring engineers, influencing cross‑functional delivery, defining roadmaps, aligning stakeholders, championing quality at organisational level, and advancing shift‑left/shift‑right practices through AI‑enabled quality transformation.
+AI & Intelligent Automation:  
+AI IDEs (Amazon Kiro & Cursor), Agentic AI tooling (AWS Bedrock)
+Infrastructure & DevOps:  
+AWS, Terraform, Ansible, Docker, CI/CD (Gitlab & Jenkins), Fastly.
+Test Automation
+Playwright, Cypress, Test Cafe, Appium, WebdriverIO, Selenium.
+Engineering:  
+Typescript, JavaScript, Python, Java, REST APIs.
+Observability & Performance:  
+Datadog, Grafana, Prometheus, JMeter, K6.
+Systems & Platforms:  
+MacOS, Linux (CentOS, RHEL)
+
+PROFESSIONAL EXPERIENCE
+Principal Quality Specialist — Dunelm
+Nov 2022 - Present 
+
+Senior leadership role focused on elevating quality across engineering teams through strategy, coaching, and modern tooling. Leading a team of SDETs, with the focus of building capabilities (TO BE EXPANDED ON)
+Key Achievements & Responsibilities:
+Defined and drove quality strategy across multiple teams, embedding a strong quality mindset into engineering workflows.
+Lead a team of senior SDETs and worked with them to define and execute technical quality strategies, whilst encouraging autonomy and ownership.
+Shaped a culture of quality in the Platform & Operations space, an area of the business which never had strong quality focus or representation.
+Led initiatives introducing AI and agentic AI tooling to enhance test intelligence, accelerate issue detection, and modernise automation practices.
+Ran POC’s of AI tooling and onboarded them to the wider quality chapter (Kiro, Cursor)
+Partnered with engineering & product leadership to align quality goals with delivery roadmaps and long‑term technical direction.
+Co-lead on the digital transformation of our monolithic website into micro-frontend architecture
+Coached engineers on quality practices, automation patterns, and scalable testing approaches.
+Introduced shift‑left quality practices, improving early defect detection and reducing downstream testing effort.
+Evaluated emerging AI technologies and integrated them into quality pipelines where they provided measurable value.
+Introduced technical capabilities to validate critical areas of the business, to increase confidence and velocity of releases.
+Lead the quality strategy to roll out a new feature flagging capability.
+Exposed DORA metrics to help highlight to engineering teams areas for improvements.
+Gathered and presented various quality metrics and findings to the exec board monthly, in order to represent quality and promote its value from a business lens.
+Presented at a number of community public speaking events (National Software Testing Conference & Test Bash)
+Co-Organised an internal community event, inviting external speakers to our London office to give back to the wider community.
+
+SDET — Dunelm
+Aug 2021 - Nov 2022 
+Senior role focused on elevating quality across engineering teams through strategy, coaching, and modern tooling.
+Key Achievements & Responsibilities:
+Joined as an SDET into a newly formed team, with the task of setting the strategy for quality.
+Collaborated closely with the tech lead & product to bake in quality to the outcomes.
+Mentored a non technical quality engineer in the team and helped them over the span of 8 months get to a point where they were writing code independently. 
+Advocated for collaboration between quality and engineering, with practices such as pair programming & 3 amigos sessions.
+Coached engineers on quality practices, automation patterns, and scalable testing approaches.
+Introduced shift‑left quality practices, improving early defect detection and reducing downstream testing effort.
+Eventually I was asked to cover a second team, which moved my role to slightly less in the detail to more of an advisory/coaching role between the two teams, delegating and advocating for a shared responsibility.
+
+Lead Automation Engineer — Mkodo, London
+Nov 2020 – Present Promoted into a leadership role overseeing automation strategy and delivery across multiple client projects.
+Key Achievements:
+Led a team of 3 automation engineers, providing technical direction, pairing, and task delegation.
+Expanded UI automation coverage across web and native apps, reducing manual regression effort.
+Designed and integrated UI automation pipelines into CI/CD workflows using Jenkins.
+Developed Terraform IaC to build and deploy infrastructure into AWS environments.
+Created AMIs using Packer and Ansible for development and production use.
+Drove automation planning for new client projects, ensuring scalable and maintainable frameworks.
+
+DevOps & Systems Analyst — Mkodo, London
+Jun 2019 – Nov 2020 Transitioned from QA into DevOps after organically taking on infrastructure and automation responsibilities.
+Key Achievements:
+Migrated monolithic infrastructure into Docker-based microservices, improving deployment speed and developer isolation.
+Automated provisioning of development and production environments using Ansible and Terraform.
+Moved from manually deploying build artifacts into production to building and maintaining CI pipelines to introduce CI/CD, therefore allowing engineers to deploy & rollback their own code.
+Investigated backend support issues through log analysis, providing evidence and fixes for clients.
+Performed performance testing using JMeter to validate internal and client services. Built performance environment made up of multiple VMs, in order to more accurately replicate expected load from different sources.
+Developed internal tools to automate manual tasks (e.g., data reporting, Slack integrations).
+Participated in out-of-hours technical support.
+
+Technical QA Engineer — Mkodo, London
+Aug 2017 – Jun 2019 Worked as part of the company’s Evolve scheme to gain deep product knowledge and technical testing experience.
+Key Achievements:
+Automated manual test processes using Postman, Selenium, Appium, and Cypress.
+Performed exploratory and regression testing across multiple products.
+Supported QA team with technical debugging, log tracing, and environment issues.
+Taught automation and performance testing skills to QA colleagues.
+Containerised and tested development environments using Docker and Ansible.
+Joined the out-of-hours technical support rota.
+
+
+Graduate Software Developer — Mkodo, London
+Aug 2016 – Aug 2017 Rotated across backend, web, native, and QA teams as part of the graduate programme.
+Key Achievements:
+Gained experience in TDD, Java, Node.js, and Backbone.js.
+Built features under senior developer supervision across multiple stacks.
+Platform experience developing and deploying to Tomcat8 and Apache servers.
+Worked with Jenkins for CI and integrating automated testing.
+Developed understanding of RESTful APIs and Linux systems.
+Introduced to Ansible for automation tasks.
+
+Facilities Assistant — Queen Mary University of London
+2014 - 2015 Prepared the Computer Science department for the academic year, including hardware installation, cabling, BIOS configuration, and office moves.
+
+Office Junior — Queen Mary University of London
+Summer 2012 Administrative support including filing, post handling, spreadsheet updates, and general office organisation.
+
+EDUCATION
+University of Westminster, London
+Computer Science BSc (Hons) — First Class Honours, 2016
+
+
